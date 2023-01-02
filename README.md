@@ -3,7 +3,15 @@
 **Note:** This is a complementry notes for JS and will go hand in hand in hand with new JS notes of codewithharry. 
 [Click here](https://drive.google.com/file/d/1okAFxCoMTLf8RqowrRDNvKf37Frh9w-3/view?usp=sharing) to access that CWH notes.
 [Chai Aur Code JS Playlist](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+**MD Guide** at the bottom.
 
+## Lec1
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## MD Guide
 
@@ -19,5 +27,3 @@
 |line|\-\-\-|
 |list|![img](https://miro.medium.com/max/1400/1*o8B0wczLfqh80Rx2oja0Qw.webp)|
 
-
-## Lec 1
